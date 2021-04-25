@@ -1,0 +1,16 @@
+{
+    "name": "chenrilong/packagedemo",
+    "description": "packagedemo",
+    "authors": [
+        {
+            "name": "sun",
+            "email": "wochenrilong@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chuhai\\Packagedemo\\": "src/"
+        }
+    }
+}
