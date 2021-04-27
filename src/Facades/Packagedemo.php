@@ -1,5 +1,6 @@
 <?php
 namespace Chuhai\Packagedemo\Facades;
+
 use Illuminate\Support\Facades\Facade;
 
 class Packagedemo extends Facade
