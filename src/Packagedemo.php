@@ -28,6 +28,6 @@ class Packagedemo
      */
     public function test_rtn($msg = ''){
         $config_arr = $this->config->get('packagedemo.options');
-        return $msg.' <strong>from your custom develop package!</strong>>';
+        return $msg.' <strong>更新看看</strong>>';
     }
 }
